@@ -1,3 +1,12 @@
+lab/LD/*.sdf
+
+
+*.ipch
+*.opensdf
+
+*.cachefile
+
+
 #Ignore files build by Visual Studio
 *.user
 *.aps
@@ -14,19 +23,8 @@
 [Bb]in
 [Dd]ebug*/
 *.sbr
+
 obj/
+
 [Rr]elease*/
 _ReSharper*/
-*.opensdf
-*.sdf
-*.vcxproj
-*.vcxproj.filters
-*.ipch
-# Visual C++ cache files
-ipch/
-*.aps
-*.ncb
-*.opensdf
-*.sdf
-*.cachefile
-*.ipch

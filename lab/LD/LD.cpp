@@ -2,6 +2,7 @@
 //
 
 #include "stdafx.h"
+#include "2.h"
 #include "LD.h"
 
 #define MAX_LOADSTRING 100

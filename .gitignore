@@ -22,3 +22,10 @@ _ReSharper*/
 *.vcxproj
 *.vcxproj.filters
 *.ipch
+# Visual C++ cache files
+ipch/
+*.aps
+*.ncb
+*.opensdf
+*.sdf
+*.cachefile
